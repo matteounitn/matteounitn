@@ -7,6 +7,8 @@ Here are some ideas to get you started:
 
 
 -->
+![ghstats](https://github-readme-stats.vercel.app/api?username=matteounitn&count_private=true&show_icons=true&theme=discord_old_blurple)
+
 ### Checkout my CV 👉[here](https://matteo.rizzi.xyz)👈
 - 🔭 I’m currently working on [iHashDNA](https://github.com/matteounitn/iHashDNA) and [TLSAssistant](https://github.com/stfbk/tlsassistant/)
 - 👯 I’m looking to collaborate on cybersec projects
